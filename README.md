@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @crystals80
-- 👀 I’m interested in graphic design, programmation and anime
-- 🌱 I’m currently learning how to the basic of web design and programmation along with other aspects of graphic design
-- 💞️ I’m looking to collaborate...not yet?
+- 👀 I’m interested in graphic design, programming and anime
+- 🌱 I’m currently learning about web design (HTML, CSS and Javascript) along with other aspects of multidisciplinary design, especially graphic design
+- 💞️ I’m looking to an internship and work in graphic design
 - 📫 How to reach me: faleanh@hotmail.com
 
 <!---
