@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crystals80
+- 👋 Hi, I’m Ky Anh! Feel free to call me Falé!
 - 👀 I’m interested in graphic design, programming and anime
 - 🌱 I’m currently learning about web design (HTML, CSS and Javascript) along with other aspects of multidisciplinary design, especially graphic design
 - 💞️ I’m looking to an internship and work in graphic design
